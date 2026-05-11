@@ -11,6 +11,6 @@ Tengo un huscky v
 3. Tengo 24 años  f 
 
 4
-Me gusta Ingles f
+Me gusta Ingles v
 Soy de Nacional v
-Soy de Durazno v
+Soy de Durazno f
